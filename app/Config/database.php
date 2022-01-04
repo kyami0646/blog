@@ -54,10 +54,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'kyamiso',
+		'host' => 'mysql712.db.sakura.ne.jp',
+		'login' => 'ivorybat1',
 		'password' => 'Rk06464927',
-		'database' => 'blog_app',
+		'database' => 'ivorybat1_blog_app',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
